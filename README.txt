@@ -6,4 +6,4 @@ On the contrary, this script runs at an average of 40 seconds and does my job. :
 
 Interesting Fact :
 
-If you are an unacademy educator, all you need is to edit videolist.txt, delete existing database and you are done. 
+If you are an unacademy educator, all you need is to edit videolist.txt, delete existing database and you are set. Get hold of the numbers within a minute. :) 
